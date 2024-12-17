@@ -10,4 +10,4 @@ python-dotenv
 finnhub-python
 fuzzywuzzy
 supabase
-stramlit-extras
+streamlit-extras
