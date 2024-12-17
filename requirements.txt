@@ -1,0 +1,12 @@
+langchain
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+tiktoken
+streamlit
+pytest
+python-dotenv
+finnhub-python
+fuzzywuzzy
+supabase
