@@ -15,7 +15,7 @@ load_dotenv()
 SUPABASE_API_KEY = os.getenv('SUPABASE_API_KEY')
 gemini_api_key = os.getenv('GEMINI_API_KEY')
 
-st.title("Instant Search")
+st.title("Financial Data Bot (USA)")
 
 # Initialize chat history
 if "userid" not in st.session_state:

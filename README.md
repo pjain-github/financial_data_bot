@@ -1,7 +1,7 @@
 # Financial Data Bot
 
 ## Overview
-The **Financial Data Bot** is a chatbot designed to provide users with insights and answers from company-reported financial data, such as income statements, balance sheets, and more. With a user-friendly interface, you can:
+The **Financial Data Bot(USA)** is a chatbot designed to provide users with insights and answers from company-reported financial data, such as income statements, balance sheets, and more. With a user-friendly interface, you can:
 
 1. Ask questions about a specific company's financial data.
 3. Receive data-driven suggestions and insights.
